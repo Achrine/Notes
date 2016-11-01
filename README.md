@@ -15,3 +15,7 @@
 # 4.9 
 * we learn error trapping for division by zero here. 
  * stop the program from doing calculations from division by zero. 
+
+# Book idea: 
+* Person wands magic wand that has been cursed to only be of use to those skeptical of magic
+ * he sees magic from the wand, and is skeptical. Always that it is real magic.
