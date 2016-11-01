@@ -1,5 +1,6 @@
 # Notes
 
 * relational operators are binary. 
-  * we need two of them. 
+  * we need give them two arguments.
+  * ex: >, <, <=, >=
   
